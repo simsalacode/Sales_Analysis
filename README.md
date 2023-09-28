@@ -1,6 +1,4 @@
 # Sales_Analysis
-This project is inspired by the work of Keith Galli, available on his GitHub repository: Pandas Data Science Tasks (https://github.com/KeithGalli/Pandas-Data-Science-Tasks). Keith presents a series of intriguing questions related to a dataset.
-
 This project is inspired by the work of Keith Galli, available on his GitHub repository: Pandas Data Science Tasks (https://github.com/KeithGalli/Pandas-Data-Science-Tasks). Keith presents a series of intriguing questions related to a dataset, providing an excellent opportunity to practice our skills in data manipulation and analysis using Python's Pandas and Matplotlib libraries.
 
 ## Key Challenges
