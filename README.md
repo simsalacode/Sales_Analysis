@@ -2,13 +2,13 @@
 This project is inspired by the work of Keith Galli, available on his GitHub repository: Pandas Data Science Tasks (https://github.com/KeithGalli/Pandas-Data-Science-Tasks). Keith presents a series of intriguing questions related to a dataset, providing an excellent opportunity to practice our skills in data manipulation and analysis using Python's Pandas and Matplotlib libraries.
 
 ## Key Challenges
-Throughout this project, we will tackle the following challenges:
+Throughout this project, we will tackle the following challenges resulting from the questions Keith raises:
 
-Best Month for Sales and Earnings: We will determine the best-performing month in terms of sales and calculate the total earnings for that specific month.
-Top-Selling City: Identifying the city that generated the highest sales volume in terms of ordered quantity.
-Optimal Advertisement Timing: Investigating the optimal time for displaying advertisements to maximize the likelihood of customer purchases.
-Frequently Purchased Products: Discovering which products are often purchased together.
-Best-Selling Product: Identifying the product that achieved the highest sales, and offering insights into the factors contributing to its success.
+- Best Month for Sales and Earnings: We will determine the best-performing month in terms of sales and calculate the total earnings for that specific month.
+- Top-Selling City: Identifying the city that generated the highest sales volume in terms of ordered quantity.
+- Optimal Advertisement Timing: Investigating the optimal time for displaying advertisements to maximize the likelihood of customer purchases.
+- Frequently Purchased Products: Discovering which products are often purchased together.
+- Best-Selling Product: Identifying the product that achieved the highest sales, and offering insights into the factors contributing to its success.
 To address these questions, we will leverage the power of Python's Pandas and Matplotlib libraries.
 
 ## Project Approach
